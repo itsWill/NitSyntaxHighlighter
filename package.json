@@ -1,6 +1,6 @@
 {
   "name": "nit-syntax-highlighter",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "Guilherme Mansur",
   "description": "Sublime Text highliter for the Nit lang based on the highlighter by Lucas Bajolet",
   "repository": {
